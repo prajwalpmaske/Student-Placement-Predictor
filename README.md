@@ -1,4 +1,7 @@
 # Student-Placement-Predictor
+
+I am also provided a Zip file just download and get started
+just need to download some libraries and you are good to go that are mention above 
 Output  You can expect : 
 
 
