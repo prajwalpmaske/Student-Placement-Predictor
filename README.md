@@ -1,5 +1,7 @@
 # Student-Placement-Predictor
-Out You can expect : 
+Output  You can expect : 
+
+
 1.Home Page where you can see the result thos are placed 
 ![Screenshot 2024-03-31 010154](https://github.com/prajwalpmaske/Student-Placement-Predictor/assets/114854119/f9b13ad1-24e0-4207-86c7-484d7aef22b9)
 2. companies that are on board
